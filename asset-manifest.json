@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/live-online-shop/static/css/main.073c9b0a.css",
-    "main.js": "/live-online-shop/static/js/main.0edff834.js",
+    "main.css": "/live-online-shop/static/css/main.87c1a989.css",
+    "main.js": "/live-online-shop/static/js/main.73ac7422.js",
     "static/js/787.bb9a6111.chunk.js": "/live-online-shop/static/js/787.bb9a6111.chunk.js",
+    "static/media/Toysshopp.png": "/live-online-shop/static/media/Toysshopp.b1c3b76f6392f26a16e7.png",
+    "static/media/kelki.png": "/live-online-shop/static/media/kelki.e73ee337049e9e7cf74a.png",
     "static/media/logo.svg": "/live-online-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/live-online-shop/index.html",
-    "main.073c9b0a.css.map": "/live-online-shop/static/css/main.073c9b0a.css.map",
-    "main.0edff834.js.map": "/live-online-shop/static/js/main.0edff834.js.map",
+    "main.87c1a989.css.map": "/live-online-shop/static/css/main.87c1a989.css.map",
+    "main.73ac7422.js.map": "/live-online-shop/static/js/main.73ac7422.js.map",
     "787.bb9a6111.chunk.js.map": "/live-online-shop/static/js/787.bb9a6111.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0edff834.js"
+    "static/css/main.87c1a989.css",
+    "static/js/main.73ac7422.js"
   ]
 }
