@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/live-online-shop/static/css/main.146a232b.css",
-    "main.js": "/live-online-shop/static/js/main.f7d055ba.js",
+    "main.js": "/live-online-shop/static/js/main.dac6e87c.js",
     "static/js/787.bb9a6111.chunk.js": "/live-online-shop/static/js/787.bb9a6111.chunk.js",
     "static/media/lego.jpg": "/live-online-shop/static/media/lego.f0460cab5f5d8e78167f.jpg",
     "static/media/watergun.jpg": "/live-online-shop/static/media/watergun.4cd0de0b7649844778df.jpg",
@@ -17,11 +17,11 @@
     "static/media/logo.svg": "/live-online-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/live-online-shop/index.html",
     "main.146a232b.css.map": "/live-online-shop/static/css/main.146a232b.css.map",
-    "main.f7d055ba.js.map": "/live-online-shop/static/js/main.f7d055ba.js.map",
+    "main.dac6e87c.js.map": "/live-online-shop/static/js/main.dac6e87c.js.map",
     "787.bb9a6111.chunk.js.map": "/live-online-shop/static/js/787.bb9a6111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.146a232b.css",
-    "static/js/main.f7d055ba.js"
+    "static/js/main.dac6e87c.js"
   ]
 }
