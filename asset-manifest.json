@@ -1,27 +1,23 @@
 {
   "files": {
     "main.css": "/live-online-shop/static/css/main.146a232b.css",
-    "main.js": "/live-online-shop/static/js/main.dac6e87c.js",
+    "main.js": "/live-online-shop/static/js/main.16790e1b.js",
     "static/js/787.bb9a6111.chunk.js": "/live-online-shop/static/js/787.bb9a6111.chunk.js",
     "static/media/lego.jpg": "/live-online-shop/static/media/lego.f0460cab5f5d8e78167f.jpg",
     "static/media/watergun.jpg": "/live-online-shop/static/media/watergun.4cd0de0b7649844778df.jpg",
     "static/media/rutsch.jpg": "/live-online-shop/static/media/rutsch.648a85f86249f15f411a.jpg",
-    "static/media/need.png": "/live-online-shop/static/media/need.dba0c8268a68babb7122.png",
     "static/media/Toysshopp.png": "/live-online-shop/static/media/Toysshopp.b1c3b76f6392f26a16e7.png",
-    "static/media/besttoys.png": "/live-online-shop/static/media/besttoys.0271684591f475bfe4dc.png",
     "static/media/logosss.png": "/live-online-shop/static/media/logosss.47e0dd1ecaa1299723b2.png",
-    "static/media/everythingforyourchild.png": "/live-online-shop/static/media/everythingforyourchild.a01fe1e6ab8d9c4a931b.png",
     "static/media/kelki.png": "/live-online-shop/static/media/kelki.e73ee337049e9e7cf74a.png",
     "static/media/sommersale.png": "/live-online-shop/static/media/sommersale.7e62b4ebc52ec7e86c84.png",
-    "static/media/sale.png": "/live-online-shop/static/media/sale.e5fcad9011bba7729db1.png",
     "static/media/logo.svg": "/live-online-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/live-online-shop/index.html",
     "main.146a232b.css.map": "/live-online-shop/static/css/main.146a232b.css.map",
-    "main.dac6e87c.js.map": "/live-online-shop/static/js/main.dac6e87c.js.map",
+    "main.16790e1b.js.map": "/live-online-shop/static/js/main.16790e1b.js.map",
     "787.bb9a6111.chunk.js.map": "/live-online-shop/static/js/787.bb9a6111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.146a232b.css",
-    "static/js/main.dac6e87c.js"
+    "static/js/main.16790e1b.js"
   ]
 }
