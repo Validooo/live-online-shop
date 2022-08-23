@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/live-online-shop/static/css/main.56629349.css",
-    "main.js": "/live-online-shop/static/js/main.13234dce.js",
+    "main.css": "/live-online-shop/static/css/main.1cdc47b3.css",
+    "main.js": "/live-online-shop/static/js/main.3fda8bf0.js",
     "static/js/787.bb9a6111.chunk.js": "/live-online-shop/static/js/787.bb9a6111.chunk.js",
     "static/media/lego.jpg": "/live-online-shop/static/media/lego.f0460cab5f5d8e78167f.jpg",
     "static/media/watergun.jpg": "/live-online-shop/static/media/watergun.4cd0de0b7649844778df.jpg",
@@ -11,12 +11,12 @@
     "static/media/sommersale.png": "/live-online-shop/static/media/sommersale.7e62b4ebc52ec7e86c84.png",
     "static/media/logo.svg": "/live-online-shop/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/live-online-shop/index.html",
-    "main.56629349.css.map": "/live-online-shop/static/css/main.56629349.css.map",
-    "main.13234dce.js.map": "/live-online-shop/static/js/main.13234dce.js.map",
+    "main.1cdc47b3.css.map": "/live-online-shop/static/css/main.1cdc47b3.css.map",
+    "main.3fda8bf0.js.map": "/live-online-shop/static/js/main.3fda8bf0.js.map",
     "787.bb9a6111.chunk.js.map": "/live-online-shop/static/js/787.bb9a6111.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56629349.css",
-    "static/js/main.13234dce.js"
+    "static/css/main.1cdc47b3.css",
+    "static/js/main.3fda8bf0.js"
   ]
 }
